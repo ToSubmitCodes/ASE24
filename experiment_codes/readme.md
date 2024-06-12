@@ -22,13 +22,13 @@ In directory **src**:
 
 5_Instrument.py: Instrument the Keras source code and generate 3 new envirionments: 
 
-​		1）keras-collect  to collect initial data 
+​		1）instruct_collect: to collect initial data 
 
-​		2）PACO- our approach 
+​		2）instruct_PACO: to reproduce our approach 
 
-​		3）
+​		3）instruct_FFcollect: to initialize FreeFuzz seed pool
 
-​		3)  FreeFuzz to compare with our approach
+​		4) instruct_FreeFuzz: to execute FreeFuzz
 
 ## Step1. PACO initialize
 
